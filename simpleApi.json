@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+              "id": "associated-press",
+              "name": "Associated Press"
+            },
+            "author": "AUDREY McAVOY, GENE JOHNSON, JENNIFER SINCO KELLEHER",
+            "title": "Hawaii officials urge families of people missing after deadly fires to give DNA samples - The Associated Press",
+            "description": "Authorities in Hawaii are pleading with relatives of those missing after the deadliest U.S. wildfire in more than a century to come forward and give DNA samples. Officials said Tuesdsay that the low number provided so far threatens to hinder efforts to identi…",
+            "url": "https://apnews.com/article/maui-fire-missing-list-lahaina-e6909a2be7860fc7f9062c886a15f979",
+            "urlToImage": "https://dims.apnews.com/dims4/default/693cb09/2147483647/strip/true/crop/4043x2274+0+213/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdb%2Fd0%2Fe3fca0558215737567367c0ff017%2F482bc37bb6464b02995ea7d319145f71",
+            "publishedAt": "2023-08-23T05:46:00Z",
+            "content": "LAHAINA, Hawaii (AP) Authorities in Hawaii pleaded Tuesday with relatives of those missing after the deadliest U.S. wildfire in more than a century to come forward and give DNA samples, saying the lo… [+6194 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "CNBC"
+            },
+            "author": "Lim Hui Jie",
+            "title": "Asia markets mixed as investors assess private business activity reports from Australia and Japan - CNBC",
+            "description": "Investors will also see inflation figures from Singapore.",
+            "url": "https://www.cnbc.com/2023/08/23/asia-markets.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107273388-1689733279342-gettyimages-821304076-singaporesunset2.jpeg?v=1692748108&w=1920&h=1080",
+            "publishedAt": "2023-08-23T05:24:00Z",
+            "content": "Asia-Pacific markets are mixed on Wednesday as investors assess private business activity surveys from Australia and Japan, as well as inflation figures from Singapore.In Australia, the S&amp;P/ASX 2… [+857 chars]"
+          }
+    
+    ]
+}
